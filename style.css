@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    font-size: 34px;
+    text-decoration: underline;
+}
+
+.main-image {
+    text-align: center;
+}
+
+ul li {
+    padding: 5px;
+    list-style-type: none;
+    background-color: #f1ffeb;
+    border-bottom: 1px solid #d4d4d4;
+}
+
+ul li a {
+    color: black;
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: #333;
+}
